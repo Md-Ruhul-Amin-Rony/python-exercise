@@ -1,0 +1,40 @@
+
+Simulation with 10 rolls:
+Number 1: Frequency = 2, Probability = 0.2000
+Number 2: Frequency = 3, Probability = 0.3000
+Number 3: Frequency = 0, Probability = 0.0000
+Number 4: Frequency = 3, Probability = 0.3000
+Number 5: Frequency = 2, Probability = 0.2000
+Number 6: Frequency = 0, Probability = 0.0000
+
+Simulation with 100 rolls:
+Number 1: Frequency = 15, Probability = 0.1500
+Number 2: Frequency = 17, Probability = 0.1700
+Number 3: Frequency = 19, Probability = 0.1900
+Number 4: Frequency = 17, Probability = 0.1700
+Number 5: Frequency = 16, Probability = 0.1600
+Number 6: Frequency = 16, Probability = 0.1600
+
+Simulation with 1000 rolls:
+Number 1: Frequency = 156, Probability = 0.1560
+Number 2: Frequency = 191, Probability = 0.1910
+Number 3: Frequency = 183, Probability = 0.1830
+Number 4: Frequency = 158, Probability = 0.1580
+Number 5: Frequency = 175, Probability = 0.1750
+Number 6: Frequency = 137, Probability = 0.1370
+
+Simulation with 10000 rolls:
+Number 1: Frequency = 1717, Probability = 0.1717
+Number 2: Frequency = 1644, Probability = 0.1644
+Number 3: Frequency = 1665, Probability = 0.1665
+Number 4: Frequency = 1662, Probability = 0.1662
+Number 5: Frequency = 1686, Probability = 0.1686
+Number 6: Frequency = 1626, Probability = 0.1626
+
+Simulation with 100000 rolls:
+Number 1: Frequency = 16499, Probability = 0.1650
+Number 2: Frequency = 16316, Probability = 0.1632
+Number 3: Frequency = 16771, Probability = 0.1677
+Number 4: Frequency = 16819, Probability = 0.1682
+Number 5: Frequency = 16687, Probability = 0.1669
+Number 6: Frequency = 16908, Probability = 0.1691
