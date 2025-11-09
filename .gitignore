@@ -57,6 +57,9 @@ coverage.xml
 # Jupyter runtime
 .jupyter/
 
+# VS Code AI Toolkit / local AI artifacts
+.aitk/
+
 # Data & large sample files (keep actual curated datasets, ignore local or temp)
 # Uncomment if you have a data directory to ignore
 # data/
