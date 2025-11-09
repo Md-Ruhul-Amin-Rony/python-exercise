@@ -1,0 +1,94 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional keep if shared)
+.vscode/
+
+# Virtual environments
+venv/
+.env/
+.env*/
+*.venv/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Type checker cache
+.mypy_cache/
+.pytype/
+
+# Logs and debug
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Jupyter runtime
+.jupyter/
+
+# Data & large sample files (keep actual curated datasets, ignore local or temp)
+# Uncomment if you have a data directory to ignore
+# data/
+
+# Excel or CSV outputs (if generated locally; comment out if source-controlled)
+# *.csv
+# *.xlsx
+
+# Environment variables files
+*.env
+.envrc
+
+# Mac OS / Windows cruft
+.DS_Store
+Thumbs.db
+
+# Profile / performance
+.prof
+
+# IPython history
+.ipython/profile_default/history.sqlite
+
+# Backup files
+*~
+
+# Ignore calibration or secret config files
+secrets.*
+*.secret
+
+# If using Poetry or Pipenv caches
+.poetry/
+Pipfile.lock
+
+# If using JupyterLab extensions build
+lab/

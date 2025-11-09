@@ -1,0 +1,24 @@
+# Normalize line endings to LF in repo, convert on checkout for Windows if core.autocrlf is set
+* text=auto
+
+# Explicitly set common text files to LF
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+
+# Treat known binary formats correctly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.xlsx binary
+*.xls binary
+*.pptx binary
+*.docx binary
